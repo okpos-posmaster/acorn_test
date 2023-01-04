@@ -1,111 +1,31 @@
-# 상업용 무료폰트 한글 10종   
+---
+cover: >-
+  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
 
-![썸네일](/images/400x400.jpg)  
+# 👋 Welcome!
 
-1. 나눔글꼴   
-2. 배달의민족 폰트 
-3. 본고딕 
-4. 서울서체 
-5. 고도체 
-6. 제주체 
-7. 청소년서체 
-8. 빙그레체 
-9. 다음체 
-10. 티몬체 
+{% hint style="info" %}
+**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+{% endhint %}
 
-## 각 폰트별 다운로드 & 라이선스 
+For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
 
-[Naver-Post #link](https://post.naver.com/viewer/postView.nhn?volumeNo=16277816)    
-위 클릭하시면 각 폰트별 **라이선스** 확인하실 수 있습니다.
-  
-  
-헤더=============================================================================
-# 헤더 크기 (h1) 
-## 헤더 크기 (h2) 
-### 헤더 크기 (h3) 
-#### 헤더 크기 (h4) 
-##### 헤더 크기 (h5) 
-###### 해더 크기 (h6)
+For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
 
+<details>
 
-목록=============================================================================
-ered 
-* Item 1 
-* Item 2 
-    * Item 2a 
-    * Item 2b 
+<summary>How to use it?</summary>
 
-Ordered 
-1. Item 1 
-1. Item 2 
-1. Item 3 
-    1. Item 3a 
-    1. Item 3b
-    
-이미지============================================================================
- 방법 
-![Github logo](https://github.com/okpos-posmaster/acorn_test/blob/main/IMG_9691.png) 
-Format: ![이미지 alt명](url 링크) 
+This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
 
+</details>
 
-<a href="#"><img src="https://github.com/okpos-posmaster/acorn_test/blob/main/IMG_9691.png" width="400px" alt="sample image"></a> 
-Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
+<details>
 
-URL============================================================================  
-[GitHub](https://github.com/okpos-posmaster/acorn_test/blob/main/%5B%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%5D%5B%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98%5DIMG_0321.png "깃허브")
+<summary>Contributing</summary>
 
-코드블럭=========================================================================
-```javascript 
-function test() { 
- console.log("hello world!"); 
-} 
-```
+If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
 
-인용상자=========================================================================
-ace Hopper said: 
-
-> I’ve always been more interested. 
-> in the future than in the past.
-
-강조=========================================================================
- text will be italic* 
-_This will also be italic_ 
-
-**This text will be bold** 
-__This will also be bold__ 
-
-*You **can** combine them*
-
-테이블=========================================================================
- Header | Second Header 
------------- | ------------- 
-Content cell 1 | Content cell 2 
-Content column 1 | Content column 2
-
-체크박스=========================================================================
- this is a complete item 
-- [ ] this is an incomplete item 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported 
-- [x] list syntax required (any unordered or ordered list supported)
-
-인라인코드=========================================================================
-중간에 `Code`를 넣을 수 있습니다. 
-예를 들어 `printf("hello world!");` 이런 식으로 들어갑니다.
-
-수평선=========================================================================
-
-*** 
-___
-
-탈출문자=========================================================================
-teral asterisks＼* 
-*literal asterisks* 
-__＼*＼*Text＼*＼*__ 
-_＼_Tom＼__
-
-이모지=========================================================================
-b supports emoji! 
-:+1: :sparkles: :camel: :tada: 
-:rocket: :metal: :octocat:
-
-
+</details>
