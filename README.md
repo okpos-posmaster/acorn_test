@@ -44,15 +44,15 @@ Ordered
     
 이미지============================================================================
  방법 
-![Github logo](/images/markdown_logo.jpg) 
+![Github logo](11111) 
 Format: ![이미지 alt명](url 링크) 
 
 두번째 방법 
-<a href="#"><img src="https://github.com/..각자절대경로../images/markdown_syntax.jpg" width="400px" alt="sample image"></a> 
+<a href="#"><img src="https://github.com/okpos-posmaster/acorn_test/blob/main/%5B%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%5D%5B%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98%5DIMG_0321.png" width="400px" alt="sample image"></a> 
 Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
 
 URL============================================================================
-ub](http://github.com "깃허브")
+ub](https://github.com/okpos-posmaster/acorn_test/blob/main/%5B%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%5D%5B%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98%5DIMG_0321.png "깃허브")
 
 코드블럭=========================================================================
 ```javascript 
